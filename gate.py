@@ -20,10 +20,12 @@ data = 'type=card&card[number]=4094+5100+0177+5995&card[cvc]=456&card[exp_year]=
 
 response = requests.post('https://api.stripe.com/v1/payment_methods', headers=headers, data=data)
 
-
+print(response.text)
 
 
 import requests
+
+
 
 cookies = {
     '_ga': 'GA1.1.87249588.1760241082',
@@ -76,3 +78,4 @@ data = {
 
 response = requests.post('https://shop.wiseacrebrew.com/', params=params, cookies=cookies, headers=headers, data=data)
 
+print(finalresponse.json)
