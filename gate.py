@@ -78,4 +78,4 @@ data = {
 
 response = requests.post('https://shop.wiseacrebrew.com/', params=params, cookies=cookies, headers=headers, data=data)
 
-print(finalresponse.json)
+print(final_response.text)
