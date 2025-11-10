@@ -1,5 +1,0 @@
-px052001.pointtoserver.com:10780:purevpn0s5148286:c0AGcmZvtTdSe3
-px121102.pointtoserver.com:10780:purevpn0s5148286:c0AGcmZvtTdSe3
-px410701.pointtoserver.com:10780:purevpn0s5148286:c0AGcmZvtTdSe3
-px490402.pointtoserver.com:10780:purevpn0s5148286:c0AGcmZvtTdSe3
-px390501.pointtoserver.com:10780:purevpn0s5148286:c0AGcmZvtTdSe3
